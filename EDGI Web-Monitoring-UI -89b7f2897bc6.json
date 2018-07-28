@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "edgi-web-monitoring-ui",
+  "private_key_id": "89b7f2897bc6d4cabdd9cfbb85a1f6673ff9f733",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK/8a7k0xUBXbP\nRHDzkA/AD7+mZJ34sJqoRFntb2llV+myb3MAB59PoLLfGcS0CIxbXCyim/so/pvu\n4ZO5EWYvSNWR339I6YfHx9OWDbt+5YtLB5/Lbi9l75/WwSYOOSpWQkmzinCw418Q\nwzY/EuXDxdz2KBhV+eKJJsTrsoBSswcK4LzwNq6k42PHuQIHvDwQYePKzLWj6RBo\ncnNShEqZrXwLNgv3nSvf8ul5AKRkaWTMXePGIDgRb473TpO9ntlcRG1ya7BUigmB\nLRfkWY0HWmnhlLx8KBh8m+wb/ynYHt097ca21dDWFLXRKt90OVhGohT6sRmWwUbh\nB/DguTnNAgMBAAECggEAHPlI2jj56fwlqwuvu3PSa61Tw2IVEgvS5zVqSHNgbbCQ\nkIFLvrNXz7u2DBXXd4LI1blgPY1Z2c4NX5kexolvNkyE/x8RQczjLmadEou/OSt2\nKC1cZ2LArSH4hGRpFBqgqlMnxdJ6pySsyu2x7mq6FKlHEnNClfLmnIDGFoYRvrvB\nkk1aC7n6DGlcVkLi/aOr0m6ltUHJn6xitr8ewXCa3btWzm1Ts8qDSu1nqQMQnNGz\ngaVkeuBIAGDqqqba5IeP6CVlx5Rtef0lBxaUCHVVe7ro/1e8GktOJ63jGguTq6FM\n2aFLEU99p8YqZGd0aQvPDkcll8JDG094NwqgiGCRAQKBgQDyE0+tV4DHAKaEk/WN\nG+rj/sOsW9Kl1YEAUWgDZ/APOXoWJGO7ncvh4+xv4BuVLmw/PewJAH+RMm3nVLe1\nF77U28Zuvy/lxWVD5QeyAX2+Qe+v6tR5MSe8GlDzpp/5q0KGpKJqDy6Xt0dgOLcy\na7LpP9GEH6giE+LCl4gIugcubQKBgQDWrQu28xQ4ldu/9VS/Eu+SsCzaxKcA0sj9\nVt4PWMes44+5DUwZCXWTnqBuXW6C+weXpNykFVtjCQS/BOh+VFxdnrm2wBdA4wlu\nTLwqMhQv8/yF5y+cZvzYcYIffLAYfwwqErHc/oD9snwMA8sRIbKaUgQvdKDH2RAC\n0pcSYTuc4QKBgHf1Edq4LdxvehTgrSHL384zhQt4RR5gepiJvp1ReChTNyiZx8JF\nI69Anv2hdImsg3+jU7/yO0TcVJH57T8UEUCx19cxbq7R7qiCahnPm1wYmIn4OGoF\n7cbM06ipvUSflUvbcZBVDaWo8PnBoSafL/1d3pk2hr68U/ZR2NtaNAzRAoGAZWNE\n7RrQqgjcyEQtyjA/RaA/DvNhjFoA4uVr6wObCmRPNK67CfgVt6prSrSFxQaaB1yt\neDE9///6Zd0DkOZ22SBlxZHjaZnQkm9bTvJn5l3tHbCaI9vf/rldI1HYOTmHnTdH\nGYB5m1f4jhQci/LGT2v83gzPApPZo/uhreSOKwECgYEA1VRueIh/yvXmH62dOe9S\n5aaDvhlGR8zur+y88p3Z0CWuKSMu7oUSQEEa/WtEb3Rwxi52KRq22oMzKpYEycTJ\nk7LqZ3UncA8ssBsHCa3yKBf1hIPU6CX8eXj9Zh6UN4xq5ZGunamq8BPgi2JXXt98\nr/7oLiJktfp7UjkUXnVKhiE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "edgi-tm@edgi-web-monitoring-ui.iam.gserviceaccount.com",
+  "client_id": "116704488114629608868",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/edgi-tm%40edgi-web-monitoring-ui.iam.gserviceaccount.com"
+}
